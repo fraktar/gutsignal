@@ -43,5 +43,16 @@
 				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
 			</div>
 		</footer>
+		<script>
+		  if (window.netlifyIdentity) {
+		    window.netlifyIdentity.on("init", user => {
+		      if (!user) {
+		        window.netlifyIdentity.on("login", () => {
+		          document.location.href = "/admin/";
+		        });
+		      }
+		    });
+		  }
+		</script>
 	</body>
 </html>

@@ -1,7 +1,7 @@
 ---
 title: Gingernut Cookies
 date: 2017-01-05T00:00:00.000Z
-featured_image: /images/uploads/covenant-transparent.png
+featured_image: /images/uploads/image.png
 rating: '4'
 ---
 These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.

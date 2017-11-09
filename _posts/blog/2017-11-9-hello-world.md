@@ -1,8 +1,7 @@
 ---
-title: "Hello Brave New World!"
-date: 2017-11-08 11:59:59 -0800
-thumbnail: "/images/post-img-1.png"
-featured_image: "/images/ministry.png"
+title: Hello Brave New World!
+date: '2017-11-08 11:59:59 -0800'
+thumbnail: /images/uploads/aalborg_sph-1920x1080 (2).png
 rating: 5
 ---
 

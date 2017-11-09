@@ -1,5 +1,5 @@
 ---
-title: "Hello World!"
+title: "Hello Brave New World!"
 date: 2017-11-08 11:59:59 -0800
 thumbnail: "/images/post-img-1.png"
 featured_image: "/images/ministry.png"

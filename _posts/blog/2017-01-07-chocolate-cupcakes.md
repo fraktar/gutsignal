@@ -1,7 +1,7 @@
 ---
 title: Chocolate Cupcakes
 date: 2017-01-07T00:00:00.000Z
-thumbnail: /images/uploads/aalborg_sph-1920x1080 (2).png
+thumbnail: /images/uploads/ryujin_esports-orange.png
 rating: '4'
 ---
 These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!

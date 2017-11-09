@@ -1,7 +1,6 @@
 ---
 title: Hello Brave New World!
 date: '2017-11-08 11:59:59 -0800'
-thumbnail: /images/uploads/image.png
 featured_image: /images/uploads/image.png
 rating: 5
 ---
